@@ -1,0 +1,3 @@
+- [返回首页](/)
+- [FortiManager](FortiManager/)
+  - [FortiManager身份认证绕过漏洞(CVE-2024-47575)](FortiManager/FortiManager身份认证绕过漏洞(CVE-2024-47575).md)

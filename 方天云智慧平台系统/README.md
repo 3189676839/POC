@@ -1,0 +1,6 @@
+- [返回首页](/)
+- [方天云智慧平台系统](方天云智慧平台系统/)
+  - [方天云智慧平台系统GetCompanyItem存在sql注入漏洞](方天云智慧平台系统/方天云智慧平台系统GetCompanyItem存在sql注入漏洞.md)
+  - [方天云智慧平台系统GetCustomerLinkman存在sql注入漏洞](方天云智慧平台系统/方天云智慧平台系统GetCustomerLinkman存在sql注入漏洞.md)
+  - [方天云智慧平台系统setImg.ashx存在文件上传漏洞](方天云智慧平台系统/方天云智慧平台系统setImg.ashx存在文件上传漏洞.md)
+  - [方天云智慧平台系统Upload.ashx存在任意文件上传漏洞](方天云智慧平台系统/方天云智慧平台系统Upload.ashx存在任意文件上传漏洞.md)

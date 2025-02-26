@@ -1,0 +1,3 @@
+- [返回首页](/)
+- [cups-browsed](cups-browsed/)
+  - [CVE-2024-47177](cups-browsed/CVE-2024-47177.md)

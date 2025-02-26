@@ -1,0 +1,4 @@
+- [返回首页](/)
+- [LiveBOS](LiveBOS/)
+  - [灵动业务架构平台(LiveBOS)系统UploadFile.do接口文件上传漏洞(XVE-2023-21708)](LiveBOS/灵动业务架构平台(LiveBOS)系统UploadFile.do接口文件上传漏洞(XVE-2023-21708).md)
+  - [灵动业务架构平台(LiveBOS)系统UploadImage.do接口文件上传漏洞(XVE-2024-18835)](LiveBOS/灵动业务架构平台(LiveBOS)系统UploadImage.do接口文件上传漏洞(XVE-2024-18835).md)

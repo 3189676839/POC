@@ -1,0 +1,3 @@
+- [返回首页](/)
+- [DataEase](DataEase/)
+  - [DataEase存在数据库配置信息暴露漏洞(CVE-2024-30269)](DataEase/DataEase存在数据库配置信息暴露漏洞(CVE-2024-30269).md)

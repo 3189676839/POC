@@ -1,0 +1,3 @@
+- [返回首页](/)
+- [Bazarr](Bazarr/)
+  - [Bazarr任意文件读取(CVE-2024-40348)](Bazarr/Bazarr任意文件读取(CVE-2024-40348).md)

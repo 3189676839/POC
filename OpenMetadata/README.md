@@ -1,0 +1,5 @@
+- [返回首页](/)
+- [OpenMetadata](OpenMetadata/)
+  - [OpenMetadata-SpEL注入(CVE-2024-28848)](OpenMetadata/OpenMetadata-SpEL注入(CVE-2024-28848).md)
+  - [OpenMetadata命令执行(CVE-2024-28255)](OpenMetadata/OpenMetadata命令执行(CVE-2024-28255).md)
+  - [OpenMetadata命令执行漏洞(CVE-2024-28253)](OpenMetadata/OpenMetadata命令执行漏洞(CVE-2024-28253).md)

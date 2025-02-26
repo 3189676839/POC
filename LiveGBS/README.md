@@ -1,0 +1,4 @@
+- [返回首页](/)
+- [LiveGBS](LiveGBS/)
+  - [LiveGBS任意用户密码重置漏洞](LiveGBS/LiveGBS任意用户密码重置漏洞.md)
+  - [LiveGBS存在逻辑缺陷漏洞(CNVD-2023-72138)](LiveGBS/LiveGBS存在逻辑缺陷漏洞(CNVD-2023-72138).md)

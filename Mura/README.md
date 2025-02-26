@@ -1,0 +1,3 @@
+- [返回首页](/)
+- [Mura](Mura/)
+  - [Mura-CMS-processAsyncObject存在SQL注入漏洞(CVE-2024-32640)](Mura/Mura-CMS-processAsyncObject存在SQL注入漏洞(CVE-2024-32640).md)

@@ -1,0 +1,3 @@
+- [返回首页](/)
+- [Metabase](Metabase/)
+  - [Metabase validate 远程命令执行漏洞（CVE-2023-38646）](Metabase/Metabase%20validate%20远程命令执行漏洞（CVE-2023-38646）.md)

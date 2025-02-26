@@ -1,0 +1,4 @@
+- [返回首页](/)
+- [孚盟云](孚盟云/)
+  - [孚盟云系统接口ajaxsenddingdingmessage存在SQL注入漏洞](孚盟云/孚盟云系统接口ajaxsenddingdingmessage存在SQL注入漏洞.md)
+  - [孚盟云系统接口MailAjax.ashx存在SQL注入漏洞](孚盟云/孚盟云系统接口MailAjax.ashx存在SQL注入漏洞.md)

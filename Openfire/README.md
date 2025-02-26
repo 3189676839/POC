@@ -1,0 +1,3 @@
+- [返回首页](/)
+- [Openfire](Openfire/)
+  - [Openfire身份认证绕过漏洞(CVE-2023-32315)](Openfire/Openfire身份认证绕过漏洞(CVE-2023-32315).md)

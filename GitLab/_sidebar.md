@@ -1,0 +1,3 @@
+- [返回首页](/)
+- [GitLab](GitLab/)
+  - [GitLab任意用户密码重置漏洞(CVE-2023-7028)](GitLab/GitLab任意用户密码重置漏洞(CVE-2023-7028).md)

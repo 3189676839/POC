@@ -1,0 +1,5 @@
+- [返回首页](/)
+- [西软云](西软云/)
+  - [西软云XMS-futurehotel-operate接口存在XXE漏洞](西软云/西软云XMS-futurehotel-operate接口存在XXE漏洞.md)
+  - [西软云XMS-futurehotel-query接口存在XXE漏洞](西软云/西软云XMS-futurehotel-query接口存在XXE漏洞.md)
+  - [西软云XMS反序列化漏洞](西软云/西软云XMS反序列化漏洞.md)

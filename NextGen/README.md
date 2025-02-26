@@ -1,0 +1,3 @@
+- [返回首页](/)
+- [NextGen](NextGen/)
+  - [NextGen-Mirth-Connect-XStream反序列化远程代码执行漏洞(CVE-2023-43208)](NextGen/NextGen-Mirth-Connect-XStream反序列化远程代码执行漏洞(CVE-2023-43208).md)

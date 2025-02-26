@@ -1,0 +1,6 @@
+- [返回首页](/)
+- [浪潮云](浪潮云/)
+  - [HCM-Cloud云端专业人力资源平台download任意文件读取漏洞](浪潮云/HCM-Cloud云端专业人力资源平台download任意文件读取漏洞.md)
+  - [浪潮云财务系统bizintegrationwebservice.asmx存在命令执行漏洞](浪潮云/浪潮云财务系统bizintegrationwebservice.asmx存在命令执行漏洞.md)
+  - [浪潮云财务系统UploadListFile存在任意文件上传漏洞](浪潮云/浪潮云财务系统UploadListFile存在任意文件上传漏洞.md)
+  - [浪潮云财务系统xtdysrv.asmx存在命令执行漏洞](浪潮云/浪潮云财务系统xtdysrv.asmx存在命令执行漏洞.md)

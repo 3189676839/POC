@@ -1,0 +1,4 @@
+- [返回首页](/)
+- [Smartbi](Smartbi/)
+  - [Smartbi 内置用户登陆绕过](Smartbi/Smartbi%20内置用户登陆绕过.md)
+  - [Smartbi修改用户密码漏洞](Smartbi/Smartbi修改用户密码漏洞.md)

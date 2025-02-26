@@ -1,0 +1,4 @@
+- [返回首页](/)
+- [黄药师](黄药师/)
+  - [药业管理软件UploadFile文件上传漏洞](黄药师/药业管理软件UploadFile文件上传漏洞.md)
+  - [药业管理软件XSDService.asmx存在SQL注入漏洞](黄药师/药业管理软件XSDService.asmx存在SQL注入漏洞.md)

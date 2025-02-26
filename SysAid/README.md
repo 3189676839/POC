@@ -1,0 +1,3 @@
+- [返回首页](/)
+- [SysAid](SysAid/)
+  - [SysAid远程命令执行漏洞（CVE-2023-47246）](SysAid/SysAid远程命令执行漏洞（CVE-2023-47246）.md)

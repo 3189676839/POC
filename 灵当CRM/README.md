@@ -1,0 +1,8 @@
+- [返回首页](/)
+- [灵当CRM](灵当CRM/)
+  - [灵当CRM系统接口getMyAmbassador存在SQL注入漏洞](灵当CRM/灵当CRM系统接口getMyAmbassador存在SQL注入漏洞.md)
+  - [灵当CRM系统接口getOrderList存在SQL注入漏洞](灵当CRM/灵当CRM系统接口getOrderList存在SQL注入漏洞.md)
+  - [灵当CRM系统接口multipleUpload.php文件上传漏洞](灵当CRM/灵当CRM系统接口multipleUpload.php文件上传漏洞.md)
+  - [灵当CRM系统接口pdf.php接口处存在任意文件读取漏洞](灵当CRM/灵当CRM系统接口pdf.php接口处存在任意文件读取漏洞.md)
+  - [灵当CRM系统接口uploadfile文件上传漏洞](灵当CRM/灵当CRM系统接口uploadfile文件上传漏洞.md)
+  - [灵当CRM系统接口wechatSession文件上传漏洞](灵当CRM/灵当CRM系统接口wechatSession文件上传漏洞.md)

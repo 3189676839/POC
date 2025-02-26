@@ -1,0 +1,5 @@
+- [返回首页](/)
+- [世邦通信](世邦通信/)
+  - [世邦通信SPON-IP网络对讲广播系统addmediadata.php任意文件上传漏洞(XVE-2024-19281)](世邦通信/世邦通信SPON-IP网络对讲广播系统addmediadata.php任意文件上传漏洞(XVE-2024-19281).md)
+  - [世邦通信SPON-IP网络对讲广播系统addscenedata.php任意文件上传漏洞](世邦通信/世邦通信SPON-IP网络对讲广播系统addscenedata.php任意文件上传漏洞.md)
+  - [世邦通信SPON-IP网络对讲广播系统my_parser.php任意文件上传漏洞](世邦通信/世邦通信SPON-IP网络对讲广播系统my_parser.php任意文件上传漏洞.md)

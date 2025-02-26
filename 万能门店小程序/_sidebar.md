@@ -1,0 +1,5 @@
+- [返回首页](/)
+- [万能门店小程序](万能门店小程序/)
+  - [万能门店小程序doPageGetFormList存在sql注入漏洞](万能门店小程序/万能门店小程序doPageGetFormList存在sql注入漏洞.md)
+  - [万能门店小程序管理系统onepic_uploade任意文件上传漏洞](万能门店小程序/万能门店小程序管理系统onepic_uploade任意文件上传漏洞.md)
+  - [微信万能门店小程序系统_requestPost存在任意文件读取漏洞](万能门店小程序/微信万能门店小程序系统_requestPost存在任意文件读取漏洞.md)

@@ -1,0 +1,6 @@
+- [返回首页](/)
+- [FLIR](FLIR/)
+  - [FLIR-AX8热成像仪applyfirmware存在远程命令执行漏洞](FLIR/FLIR-AX8热成像仪applyfirmware存在远程命令执行漏洞.md)
+  - [FLIR-AX8热成像仪download.php存在任意文件读取漏洞](FLIR/FLIR-AX8热成像仪download.php存在任意文件读取漏洞.md)
+  - [FLIR-AX8热成像仪palette.php存在远程命令执行漏洞](FLIR/FLIR-AX8热成像仪palette.php存在远程命令执行漏洞.md)
+  - [FLIR-AX8热成像仪res.php存在远程命令执行漏洞](FLIR/FLIR-AX8热成像仪res.php存在远程命令执行漏洞.md)

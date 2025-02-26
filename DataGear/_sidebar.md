@@ -1,0 +1,3 @@
+- [返回首页](/)
+- [DataGear](DataGear/)
+  - [DataGear数据可视化分析平台存在SpEL表达式注入漏洞(CVE-2024-37759)](DataGear/DataGear数据可视化分析平台存在SpEL表达式注入漏洞(CVE-2024-37759).md)

@@ -1,0 +1,4 @@
+- [返回首页](/)
+- [Zabbix](Zabbix/)
+  - [Zabbix-Serve-SQL注入漏洞(CVE-2024-22120)](Zabbix/Zabbix-Serve-SQL注入漏洞(CVE-2024-22120).md)
+  - [Zabbix存在SQL注入漏洞(CVE-2024-42327)](Zabbix/Zabbix存在SQL注入漏洞(CVE-2024-42327).md)

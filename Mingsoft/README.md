@@ -1,0 +1,3 @@
+- [返回首页](/)
+- [Mingsoft](Mingsoft/)
+  - [Mingsoft-MCMS前台查询文章列表接口SQL注入(CNVD-2024-06148)](Mingsoft/Mingsoft-MCMS前台查询文章列表接口SQL注入(CNVD-2024-06148).md)

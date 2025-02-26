@@ -1,0 +1,4 @@
+- [返回首页](/)
+- [邦永PM2项目管理系统](邦永PM2项目管理系统/)
+  - [邦永PM2项目管理平台系统ExcelIn.aspx存在任意文件上传漏洞](邦永PM2项目管理系统/邦永PM2项目管理平台系统ExcelIn.aspx存在任意文件上传漏洞.md)
+  - [邦永PM2项目管理系统Global_UserLogin.aspx存在SQL注入漏洞](邦永PM2项目管理系统/邦永PM2项目管理系统Global_UserLogin.aspx存在SQL注入漏洞.md)

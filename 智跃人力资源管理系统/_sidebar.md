@@ -1,0 +1,3 @@
+- [返回首页](/)
+- [智跃人力资源管理系统](智跃人力资源管理系统/)
+  - [智跃人力资源管理系统GenerateEntityFromTable.aspx SQL漏洞](智跃人力资源管理系统/智跃人力资源管理系统GenerateEntityFromTable.aspx%20SQL漏洞.md)

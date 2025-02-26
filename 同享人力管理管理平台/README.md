@@ -1,0 +1,7 @@
+- [返回首页](/)
+- [同享人力管理管理平台](同享人力管理管理平台/)
+  - [同享人力管理管理平台ActiveXConnector.asmx信息泄露漏洞](同享人力管理管理平台/同享人力管理管理平台ActiveXConnector.asmx信息泄露漏洞.md)
+  - [同享人力管理管理平台DownloadFile存在任意文件下载漏洞](同享人力管理管理平台/同享人力管理管理平台DownloadFile存在任意文件下载漏洞.md)
+  - [同享人力管理管理平台SFZService.asmx存在SQL注入漏洞](同享人力管理管理平台/同享人力管理管理平台SFZService.asmx存在SQL注入漏洞.md)
+  - [同享人力管理管理平台UploadHandler存在任意文件上传漏洞](同享人力管理管理平台/同享人力管理管理平台UploadHandler存在任意文件上传漏洞.md)
+  - [同享人力资源管理系统hdlUploadFile.ashx存在文件上传漏洞](同享人力管理管理平台/同享人力资源管理系统hdlUploadFile.ashx存在文件上传漏洞.md)

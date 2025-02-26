@@ -1,0 +1,4 @@
+- [返回首页](/)
+- [Weblogic](Weblogic/)
+  - [Weblogic远程代码执行(CVE-2024-20931)](Weblogic/Weblogic远程代码执行(CVE-2024-20931).md)
+  - [WebLogic远程代码执行漏洞(CVE-2024-21006)](Weblogic/WebLogic远程代码执行漏洞(CVE-2024-21006).md)
